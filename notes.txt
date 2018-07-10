@@ -1,0 +1,8 @@
+Rotas = Caminhos HTTP
+
+www.google.com => localhost
+
+localhost/
+localhost/sistemas
+localhost/sistemas/turmas
+localhost/contato
